@@ -1,2 +1,7 @@
 リリアンです。
-趣味はサイクリングです。
+趣味はサイクリングです。Added new contents in master branch.
+
+
+Added new contents in newbranch.
+
+
