@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 リリアンです。
 趣味はサイクリングです。Added new contents in master branch.
 
@@ -5,3 +6,7 @@
 Added new contents in newbranch.
 
 
+=======
+リリアンです。!!!!!new branch!!!
+趣味はサイクリングです。
+>>>>>>> newbranch
